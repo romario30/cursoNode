@@ -1,0 +1,31 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romario30/cursoNode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Romário Dias Paz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romario30/cursoNode/issues"
+  },
+  "homepage": "https://github.com/romario30/cursoNode#readme",
+  "description": ""
+}
